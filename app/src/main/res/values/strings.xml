@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JDSportsShop</string>
+    <string name="address">5261 Clairemont Mesa Blvd, San Diego, CA, 92117</string>
+    <string name="Location">LOCATION</string>
+    <string name="address_longitude">-117.177496</string>
+    <string name="address_latitude">32.834230</string>
+    <string name="phone_number">858-173-9856</string>
+    <string name="about">ABOUT</string>
+    <string name="hours">10am-9pm</string>
+    <string name="description">Sports Wear, Soccer and Football Gears, NFL and NBA team jerseys.</string>
+    <string name="email">jdsports@jd.com</string>
+</resources>
